@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop-application">
   <id>org.freedesktop.Piper</id>
+  <developer id="io.github.libratbag">
+    <name>libratbag developers</name>
+  </developer>
   <metadata_license>FSFAP</metadata_license>
   <project_license>GPL-2.0-or-later</project_license>
-  <content_rating type="oars-1.0" />
+  <content_rating type="oars-1.1" />
   <name translatable="no">Piper</name>
   <summary>Gaming mouse configuration utility</summary>
   <description>
